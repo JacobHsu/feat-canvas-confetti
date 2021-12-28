@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/feat-canvas-confetti/static/css/main.073c9b0a.css",
+    "main.js": "/feat-canvas-confetti/static/js/main.12e82e9e.js",
+    "static/js/787.8ba8ddc4.chunk.js": "/feat-canvas-confetti/static/js/787.8ba8ddc4.chunk.js",
+    "static/media/logo.svg": "/feat-canvas-confetti/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/feat-canvas-confetti/index.html",
+    "main.073c9b0a.css.map": "/feat-canvas-confetti/static/css/main.073c9b0a.css.map",
+    "main.12e82e9e.js.map": "/feat-canvas-confetti/static/js/main.12e82e9e.js.map",
+    "787.8ba8ddc4.chunk.js.map": "/feat-canvas-confetti/static/js/787.8ba8ddc4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.12e82e9e.js"
+  ]
+}
