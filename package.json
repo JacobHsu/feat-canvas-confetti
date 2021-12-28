@@ -1,5 +1,6 @@
 {
   "name": "feat-canvas-confetti",
+  "homepage": "https://jacobhsu.github.io/feat-canvas-confetti",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
