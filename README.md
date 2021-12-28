@@ -1,7 +1,16 @@
-# Getting Started with Create React App
+# canvas-confetti
+
+[canvas-confetti](https://www.npmjs.com/package/canvas-confetti)
+
+Example [pancake-frontend/src/components/GlobalCheckClaimStatus/AnniversaryAchievementModal.tsx](https://github.com/pancakeswap/pancake-frontend/blob/develop/src/components/GlobalCheckClaimStatus/AnniversaryAchievementModal.tsx)
+
+
+[react-canvas-confetti](https://ulitcos.github.io/react-canvas-confetti/)
+Examples [Functional component example](https://codesandbox.io/s/fireworks-fn-react-canvas-confetti-forked-fmtxl?file=/src/App.js)
+
+## Getting Started with Create React App
 
 `npx create-react-app my-app` "react": "^17.0.2"
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
